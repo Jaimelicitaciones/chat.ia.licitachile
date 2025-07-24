@@ -1,0 +1,5 @@
+{
+  "name": "Analizador de PDF con IA",
+  "description": "Sube un documento PDF para chatear y analizar su contenido en tiempo real con la ayuda de la inteligencia artificial de Gemini.",
+  "requestFramePermissions": []
+}
